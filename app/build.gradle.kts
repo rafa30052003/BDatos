@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.iesfranciscodelosrios.bdatos_alejandrogalvez_rafalucena"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.iesfranciscodelosrios.bdatos_alejandrogalvez_rafalucena"
